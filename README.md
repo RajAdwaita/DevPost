@@ -21,8 +21,6 @@ It is a chrome extension for a web browser that tells you about the stuff in the
   4. Select the file location where you stored your chrome extension
   5. Go to any website and use our extension
 
- **Canva Link for your ready reference**
-https://www.canva.com/design/DAEwcDWfhZM/ogpQzDrPxANV8-iDCJUKtw/edit
 
  **Figma Link for your ready reference**
  
